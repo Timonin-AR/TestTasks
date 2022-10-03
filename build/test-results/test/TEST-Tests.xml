@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-09-28T16:03:03" hostname="DESKTOP-RTB8ULD" time="0.073">
+  <properties/>
+  <testcase name="testCreditCard()" classname="Tests" time="0.073"/>
+  <system-out><![CDATA[Зачислено: 10 Баланс счета:110
+Списано: 90 Баланс счета:20
+Недостаточно средств
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
